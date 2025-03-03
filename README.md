@@ -1,1 +1,2 @@
-# Barrett-Portfolio
+# Growth Analysis
+# Hi, I'm Elizabeth, a passionate educator with a background in applied mathematics and secondary education. I’m currently exploring data science and analytics as I transition into a new career. This repository includes data and projects I've worked on related to growth analysis, and it's part of my journey to learn and apply new skills in Python, SQL, and data visualization. Feel free to explore the data and contribute if you have ideas or improvements!
