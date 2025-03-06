@@ -1,21 +1,15 @@
-# **Growth Data Analysis**  
+# 👋 Hi, I'm Elizabeth!  
 
-## **Overview**  
-This repository contains an analysis of growth data, focusing on identifying trends and patterns over time. The dataset includes various financial and business metrics, and the goal is to explore key insights related to company performance, revenue trends, and other growth indicators.  
+I'm a passionate data enthusiast with a background in **applied mathematics and secondary education**. After two years of teaching, I’m transitioning into **data science full-time**, using my analytical skills and problem-solving mindset to drive insights and decision-making.  
 
-## **Dataset**  
-- **Source:** Financial Statements of Major Companies (2009-2023)  
-- **Contents:** Revenue, expenses, profit margins, and other financial metrics  
-- **Timeframe:** 2009 - 2023  
+## 🔍 About Me  
+- 📊 **Data Analyst & Educator** – Combining analytical thinking with strong communication skills  
+- 🚀 **Future Data Scientist** – Exploring machine learning, business analytics, and predictive modeling  
+- 🎯 **Problem Solver** – Transforming raw data into actionable insights  
 
-## **Analysis Goals**  
-- Identify key trends in financial growth over time  
-- Compare growth rates across different companies  
-- Visualize patterns using Python and data visualization techniques  
+## 📂 Projects You'll Find Here  
+- 🔹 **Data Analysis & Visualization** – Exploring datasets to uncover meaningful trends  
+- 🎮 **Game Development** – Check out my coded version of **Go Fish!**  
+- 🔜 **More to Come!** – Expanding into machine learning, automation, and beyond  
 
-## **Methods & Tools Used**  
-- **Python:** Data cleaning and analysis  
-- **Pandas:** Data manipulation  
-- **Matplotlib & Seaborn:** Data visualization  
-- **Jupyter Notebook:** Interactive analysis  
-
+I'm always learning, building, and looking for new challenges. Let's connect and collaborate!  
